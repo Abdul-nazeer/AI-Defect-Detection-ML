@@ -53,4 +53,4 @@ You can find the database on this [link](https://www.kaggle.com/ravirajsinh45/re
 
 Happy predictions!!!
 
-Also, feel free to contact me via email (kulshreshthabhinav@gmail.com) if you have any suggestions for the model or you find a model better than this.
+Also, feel free to contact me via email (roxnazeer@gmail.com) if you have any suggestions for the model or you find a model better than this.
